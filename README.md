@@ -1,0 +1,1 @@
+1.mēģinājums GIT. var izdoties?
